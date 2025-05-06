@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\lyseis_Sept_2023_G2.props" />
+</Project>

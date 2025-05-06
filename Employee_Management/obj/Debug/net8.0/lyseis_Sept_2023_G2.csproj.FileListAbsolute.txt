@@ -1,0 +1,64 @@
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\appsettings.json
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\lyseis_Sept_2023_G2.exe
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\lyseis_Sept_2023_G2.deps.json
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\lyseis_Sept_2023_G2.runtimeconfig.json
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\lyseis_Sept_2023_G2.dll
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\lyseis_Sept_2023_G2.pdb
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.csproj.AssemblyReference.cache
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.AssemblyInfoInputs.cache
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.AssemblyInfo.cs
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.csproj.CoreCompileInputs.cache
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\staticwebassets\msbuild.lyseis_Sept_2023_G2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\staticwebassets\msbuild.build.lyseis_Sept_2023_G2.props
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lyseis_Sept_2023_G2.props
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lyseis_Sept_2023_G2.props
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\scopedcss\bundle\lyseis_Sept_2023_G2.styles.css
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.csproj.CopyComplete
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.dll
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\refint\lyseis_Sept_2023_G2.dll
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.pdb
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.genruntimeconfig.cache
+C:\Users\evits\Desktop\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\ref\lyseis_Sept_2023_G2.dll
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\appsettings.json
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\lyseis_Sept_2023_G2.exe
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\lyseis_Sept_2023_G2.deps.json
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\lyseis_Sept_2023_G2.runtimeconfig.json
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\lyseis_Sept_2023_G2.dll
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\lyseis_Sept_2023_G2.pdb
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.csproj.AssemblyReference.cache
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.AssemblyInfoInputs.cache
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.AssemblyInfo.cs
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.csproj.CoreCompileInputs.cache
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\staticwebassets\msbuild.lyseis_Sept_2023_G2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\staticwebassets\msbuild.build.lyseis_Sept_2023_G2.props
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lyseis_Sept_2023_G2.props
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lyseis_Sept_2023_G2.props
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\scopedcss\bundle\lyseis_Sept_2023_G2.styles.css
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.csproj.CopyComplete
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.dll
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\refint\lyseis_Sept_2023_G2.dll
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.pdb
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\lyseis_Sept_2023_G2.genruntimeconfig.cache
+C:\Users\evits\Desktop\Sxolh\8emata-Lyseis_eksetastikhs\5o eksamhno\YSI\lyseis_8emata_YSI\lyseis_Sept_2023_G2\lyseis_Sept_2023_G2\obj\Debug\net8.0\ref\lyseis_Sept_2023_G2.dll

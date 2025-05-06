@@ -1,0 +1,6 @@
+@lyseis_Sept_2023_G2_HostAddress = http://localhost:5064
+
+GET {{Employee_Management_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
