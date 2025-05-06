@@ -21,8 +21,8 @@ Data is stored temporarily **in-memory**, without a database connection.
 - In-Memory Data Storage
 
 ---
-##🧑‍💻 Contributing
+## 🧑‍💻 Contributing
 If you want to contribute, feel free to open an issue or submit a pull request!
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License.
